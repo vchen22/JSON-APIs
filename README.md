@@ -1,10 +1,3 @@
-/**
-  *Author: Vicki Chen
-  *CS8B Login: cs8bwamh
-  *Date: 1/29/19
-  *Source of Help: PA2 Write up, UNIX/LINUX cheat sheet
-  **/
-
 ## Summary
 1. By having a test in which I know what the result should be, I have 
 an envision of what the logic of the code should already be. Having 
